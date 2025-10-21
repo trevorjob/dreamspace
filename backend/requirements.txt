@@ -1,0 +1,25 @@
+# Django and REST Framework
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.0
+
+# Database
+psycopg2-binary==2.9.9
+
+# Authentication
+djangorestframework-simplejwt==5.3.0
+
+# Celery and Redis
+celery==5.3.4
+redis==5.0.1
+
+# Image handling
+Pillow==10.1.0
+cloudinary==1.36.0
+
+# Environment variables
+python-decouple==3.8
+
+# Utilities
+python-dotenv==1.0.0
+

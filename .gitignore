@@ -1,0 +1,13 @@
+# General
+.DS_Store
+*.log
+
+# Docker
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
