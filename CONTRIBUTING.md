@@ -38,7 +38,7 @@ Build a furniture database with:
 ## 🛠️ Development Setup
 
 ```bash
-# 1. Fork the repository
+# 1. Fork the rep
 # 2. Clone your fork
 git clone https://github.com/YOUR_USERNAME/dreamspace.git
 

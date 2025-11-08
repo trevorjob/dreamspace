@@ -8,9 +8,11 @@ Quick navigation for **InDecor DreamSpace** documentation.
 
 Start here if you're new:
 
-1. **[README.md](README.md)** - Project overview, tech stack, features
-2. **[QUICKSTART.md](QUICKSTART.md)** - 5-minute setup guide
-3. **[SUMMARY.md](SUMMARY.md)** - What's been built (61 files)
+1. **[QUICK_START_GUIDE.md](QUICK_START_GUIDE.md)** - 🆕 Fast setup & immediate next steps
+2. **[COPILOT_HANDOFF.md](COPILOT_HANDOFF.md)** - 🆕 **CRITICAL:** Architecture pivot context
+3. **[README.md](README.md)** - Project overview, tech stack, features
+4. **[QUICKSTART.md](QUICKSTART.md)** - 5-minute setup guide
+5. **[SUMMARY.md](SUMMARY.md)** - What's been built (61 files)
 
 ---
 
@@ -98,6 +100,8 @@ docker-compose exec api python manage.py migrate
 📄 DEPLOYMENT.md          - Production guide
 📄 SUMMARY.md             - Project summary
 📄 INDEX.md               - This file
+📄 COPILOT_HANDOFF.md     - 🆕 Architecture pivot & context handoff
+📄 QUICK_START_GUIDE.md   - 🆕 Fast setup for new environment
 📄 docker-compose.yml     - Docker config
 📄 Makefile               - Make commands
 📄 .gitignore             - Git ignore

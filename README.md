@@ -2,7 +2,14 @@
 
 **A "Figma for interior decorators"** - A web application where designers can upload room photos, edit them in a canvas (drag/drop, resize, swap items, recolor), and generate/share design variants.
 
-> **MVP Focus:** 2D canvas editor with extensible architecture for future 3D integration.
+> **🚨 IMPORTANT:** Architecture is being migrated from 2D Konva to 3D React Three Fiber.  
+> **📖 New to this project?** Start with **[HANDOFF_README.md](HANDOFF_README.md)**  
+> **💻 Setting up on new laptop?** Read **[START_HERE.md](START_HERE.md)**
+
+---
+
+> **MVP Focus (LEGACY):** 2D canvas editor with extensible architecture for future 3D integration.  
+> **NEW FOCUS:** True 3D room visualization with real furniture models from local vendors.
 
 ---
 
